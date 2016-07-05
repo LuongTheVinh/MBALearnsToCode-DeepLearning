@@ -64,3 +64,7 @@ target/
 # IntelliJ IDEA files
 *.iml
 .idea/
+
+# data folders
+notMNIST_large/
+notMNIST_small/
