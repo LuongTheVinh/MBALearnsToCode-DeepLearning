@@ -65,6 +65,8 @@ target/
 *.iml
 .idea/
 
-# data folders
+# data files folders
+*.pickle
+*.tar*
 notMNIST_large/
 notMNIST_small/
